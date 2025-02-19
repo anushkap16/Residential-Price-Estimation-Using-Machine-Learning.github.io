@@ -7,9 +7,13 @@ Making home price predictions accessible to everyone can benefit millions of buy
         
 Machine learning provides various approaches to help build a prediction model that estimates house prices using such features. Building the model requires a training dataset, which helps the model to learn the mapping between the combination of features' values to a home price.\footnote{In addition to the training dataset, machine learning requires a testing dataset to evaluate the accuracy of the model on unseen (i.e., testing) data.} Formally, given $n$ features (i.e., $x_{1}, x_{2}, ... x_{n}$) then the model can be defined as a function \( F \) such that:
 
-$$ 
+{% raw %}
+\[
 F(x_1, x_2, ..., x_n) \mapsto Y \quad \text{where} \quad Y \in \mathbb{R}
-$$
+\]
+{% endraw %}
+
+[^1]: In addition to the training dataset, machine learning requires a testing dataset to evaluate accuracy on unseen data.
 
 However, it is hard to find such a dataset. Conveniently, Kaggle (an online platform) provides a public house price dataset with features describing different aspects of residential homes in Ames, Iowa. This project uses the same dataset to build various models using different machine learning approaches such as linear regression, regularization, and ensemble methods. Additionally, the project compares the performance of the models trained using these machine learning approaches, analyzes their strengths and weaknesses, and provides the implementation details for these approaches. [Kaggle Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
