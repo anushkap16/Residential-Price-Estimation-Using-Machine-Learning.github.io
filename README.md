@@ -1,4 +1,4 @@
-## Introduction
+## Residential Price Estimation Using Machine Learning
 This project aims to predict residential home prices using machine learning techniques. It uses a dataset containing various features of homes, such as size, location, and other attributes, to predict the sale price of a house.
 
 ## Project Overview
