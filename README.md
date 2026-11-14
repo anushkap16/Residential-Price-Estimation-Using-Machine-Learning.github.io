@@ -34,4 +34,4 @@ However, it is hard to find such a dataset. Conveniently, Kaggle (an online plat
   - `statsmodels`
 
 ## Project Report
-[Residential Price Estimation Using Machine Learning](https://drive.google.com/file/d/1RA-xQpM6f2mc3AqBhQWx-JP2bOgA_gv7/view?usp=sharing)
+[Residential Price Estimation Using Machine Learning](https://drive.google.com/file/d/1k2BMhYRS4qEb1RnsTMJEO2M5TpzC0J5X/view?usp=sharing)
